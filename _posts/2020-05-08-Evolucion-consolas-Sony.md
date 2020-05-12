@@ -13,8 +13,9 @@ tags:
   -realidad virtual
   -dualshock
   -evolucion consolas videojuegos
-author: Nestor Mateo contreras Valderrama
+author: Nestor Mateo Contreras Valderrama
 paginate: true
+
 ---
 
 
