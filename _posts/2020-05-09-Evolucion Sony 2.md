@@ -15,9 +15,7 @@ tags:
   -evolucion  consolas videojuegos
 author: Nestor Mateo Contreras Valderrama
 paginate: true
-
 ---
-
  # PlayStation 1
 ## consola
 ![]( https://media.playstation.com/is/image/SCEA/playstation-classic-system-top-us-18sept18?$native_nt$)
