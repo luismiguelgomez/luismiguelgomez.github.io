@@ -1,7 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: WikiGames
+title: WikiGames | Un blog de la historia de los video juegos
+description: Blog para compartir la hisotira de los video juegos y su evolucion
 tags:
   - blog
   - template
@@ -24,7 +24,7 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: https://luismiguelgomez.github.io
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
