@@ -4,8 +4,8 @@ layout: post
 title: Brawl Stars
 subtitle: Juego de acción online
 description: Prueba este juego "Brawl Star", un juego de disparos.
-image: https://cdn.supercell.com/supercell.com/200430091312/supercell.com/files/styles/hero_image_narrow/public/hero_bg_brawlstars_.jpg?itok=yifeFssz&timestamp=1544532809
-optimized_image: https://cdn.supercell.com/supercell.com/200430091312/supercell.com/files/styles/hero_image_narrow/public/hero_bg_brawlstars_.jpg?itok=yifeFssz&timestamp=1544532809
+image: https://miro.medium.com/max/960/1*wtRjEeWa0QkwQ85YW9zTwg.png
+optimized_image: https://miro.medium.com/max/960/1*wtRjEeWa0QkwQ85YW9zTwg.png
 category: juegos en dispositivos móviles
 tags:
   - Brawl Star
